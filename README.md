@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgreSQL&logoColor=white)
 
 ### Dev Tools & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=gitHub)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GoDaddy](https://img.shields.io/badge/-GoDaddy-1BDB81?style=flat-square&logo=godaddy&logoColor=white)
