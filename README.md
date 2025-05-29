@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Full Stack Projects using Rails, Jquery**
   
-- 🌱 I’m currently learning **REST APIs, Docker, and Vue.js-3**
+- 👨‍💻 I’m currently learning **REST APIs, Docker, and Vue.js-3**
   
-- 👯 I’m looking to collaborate on **Open-source full-stack applications**
+- 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-source full-stack applications**
   
 - 💬 Ask me about **Ruby on Rails, PostgreSQL, Tailwind, Jquery, Vue.js, or anything web**
   
 - 📫 How to reach me: **himanshu.backspacce08@gmail.com**
   
-- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01ad2f38ffe715e7fc)
+- 👨‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01ad2f38ffe715e7fc)
   
 - ⚡ Fun fact: I design in Figma/AdobeXd/Photoshop/Canva before I code it ✨
 
