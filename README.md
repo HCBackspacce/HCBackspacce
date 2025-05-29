@@ -13,7 +13,7 @@
   
 - 📫 How to reach me: **himanshu.backspacce08@gmail.com**
   
-- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~019335d04c1b303788)
+- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01ad2f38ffe715e7fc)
   
 - ⚡ Fun fact: I design in Figma/AdobeXd/Photoshop/Canva before I code it ✨
 
