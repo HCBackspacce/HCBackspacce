@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Full Stack Projects using Rails, Jquery**
   
-- 🌱 I’m currently learning **REST APIs, Docker, and VueJs-3**
+- 🌱 I’m currently learning **REST APIs, Docker, and Vue.js-3**
   
 - 👯 I’m looking to collaborate on **Open-source full-stack applications**
   
-- 💬 Ask me about **Ruby on Rails, PostgreSQL, Tailwind, Jquery, VueJS, or anything web**
+- 💬 Ask me about **Ruby on Rails, PostgreSQL, Tailwind, Jquery, Vue.js, or anything web**
   
 - 📫 How to reach me: **himanshu.backspacce08@gmail.com**
   
@@ -23,8 +23,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jquery](https://img.shields.io/badge/-Jauery-DD0031?style=flat-square&logo=jquery&logoColor=white)
-![VueJS](https://img.shields.io/badge/-VeuJs-61DAFB?style=flat-square&logo=veujs)
+![Jquery](https://img.shields.io/badge/-Jquery-DD0031?style=flat-square&logo=jquery&logoColor=white)
+![VueJS](https://img.shields.io/badge/-Vue.js-61DAFB?style=flat-square&logo=vue.js)
 
 ### Backend
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails)
